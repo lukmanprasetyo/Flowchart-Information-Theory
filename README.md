@@ -1,2 +1,2 @@
 # Flowchart-Information-Theory
-Dibuat untuk menyimpan dan mengunpulkan tugas Information Theory
+Dibuat untuk menyimpan dan mengumpulkan tugas Information Theory
