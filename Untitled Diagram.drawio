@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T01:28:31.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Jff0bQKHMJCRAOqMxop0" version="13.10.1" type="github"><diagram id="KrDxTiIuxsKZPklJdBHb" name="Page-1">dZFPE4IgEMU/DXcC+3M3q0snD50Z2YAZdB2k0fr06YAZY51Yfu+9XWYhPK+HsxOtvqIESxiVA+FHwtiGbeh4TOQZyC7bB6CckdG0gNK8IMKYUw8joUuMHtF606awwqaByidMOId9arujTae2QsEKlJWwa3oz0utIM0oX4QJG6Tj6sI1CLWZzBJ0WEvsvxAvCc4foQ1UPOdhpefNeQu70R/08zEHjfwTGYuk9XpIf4sUb</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-24T02:07:28.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="GXxYNuUoFmzxqcNfWeni" version="13.10.1" type="github">
+  <diagram id="KrDxTiIuxsKZPklJdBHb" name="Page-1">
+    <mxGraphModel dx="1210" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="imLu3sfdyxnJeD9b9Elo-1" value="A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="imLu3sfdyxnJeD9b9Elo-2" value="Nama Depan : &lt;b style=&quot;font-size: 16px;&quot;&gt;Lukman&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="imLu3sfdyxnJeD9b9Elo-3" value="K" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
