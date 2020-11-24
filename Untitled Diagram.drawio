@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T15:40:34.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="-5I90m3mICsB5uMn4SUM" version="13.10.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-24T15:44:06.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Eh51KF7Ewe_u4M9hlH-e" version="13.10.2" type="github" pages="3">
   <diagram id="KrDxTiIuxsKZPklJdBHb" name="Lukman">
-    <mxGraphModel dx="1552" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1552" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -431,7 +431,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QXzUBfkGfipJoK5j0moZ" name="Prasetyo">
-    <mxGraphModel dx="1552" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1552" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="AEffygmhGOhFYudsBpQd-0" />
         <mxCell id="AEffygmhGOhFYudsBpQd-1" parent="AEffygmhGOhFYudsBpQd-0" />
@@ -1082,7 +1082,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zf4mFZm6ug2zv0SC5QDD" name="Nugroho">
-    <mxGraphModel dx="1552" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1552" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="Groe0LGaIa6GUCxdQJLm-0" />
         <mxCell id="Groe0LGaIa6GUCxdQJLm-1" parent="Groe0LGaIa6GUCxdQJLm-0" />
